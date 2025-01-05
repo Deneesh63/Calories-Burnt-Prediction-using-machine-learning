@@ -1,4 +1,4 @@
-# Calorie Burnt Prediction Using Machine Learning
+# Calories Burnt Prediction Using Machine Learning
 
 ## Project Overview
 This project predicts the number of calories burnt during exercise based on user input features such as gender, age, height, weight, duration of exercise, heart rate, and body temperature. The project uses machine learning models for prediction and provides a simple GUI for user interaction.
