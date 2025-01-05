@@ -94,3 +94,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 - [XGBoost](https://xgboost.readthedocs.io/)
 - [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)
 
+## GUI 
+https://github.com/user-attachments/assets/e324d671-b626-4082-94a1-d048645d889f
+
+
