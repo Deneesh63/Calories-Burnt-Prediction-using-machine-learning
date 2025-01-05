@@ -83,10 +83,8 @@ The project evaluates three models: Linear Regression, Random Forest, and XGBoos
 ## Results
 The **XGBoost model** outperformed others and is saved as the final model in `pipeline.pkl`.
 
-## Future Improvements
-- Add more features to enhance prediction accuracy.
-- Expand the GUI with data visualization and user input validations.
-- Optimize model training for faster execution.
+## Updates from Existing project
+The updates to the models have led to notable improvements in performance. The XGBoost model saw a 0.056% increase in R2 score (from 0.99875 to 0.99931) and a 21.71% reduction in MAE (from 1.52 to 1.19). The Random Forest model showed a slight improvement in R2 (0.002%) and a small decrease in MAE by 0.60%. Additionally, RMSE and MAPE were introduced for a more comprehensive evaluation, with XGBoost achieving an impressive MAPE of 0.0249, demonstrating its superior accuracy for calorie predictions.
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
